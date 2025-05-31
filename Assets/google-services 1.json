@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52560581995",
+    "project_id": "finalyearproject-a55dc",
+    "storage_bucket": "finalyearproject-a55dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52560581995:android:9ea5132f10218213e4a82e",
+        "android_client_info": {
+          "package_name": "com.Hung.RoguelikeDungeon2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylqv4OsRZmqStvhIXujw7zSVl1IsFxg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
